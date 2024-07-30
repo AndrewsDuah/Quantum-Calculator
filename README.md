@@ -1,4 +1,4 @@
-# calc
+# Quantum Calculator
 
 Developed a comprehensive physics calculator application enabling precise calculations in atomic and nuclear physics.
 Implemented functionalities for atomic transition calculations, nuclear physics computations, de-Broglie wavelength calculations and thermodynamic calculations.
