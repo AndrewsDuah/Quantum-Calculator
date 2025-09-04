@@ -12,9 +12,10 @@ With its **intuitive GUI**, robust backend, and precise formulas, this applicati
 - 🔹 **Atomic Transition Calculations** – Compute electron energy levels and transition values with precision.  
 - 🔹 **Nuclear Physics Computations** – Perform calculations related to nuclear decay, binding energy, and mass-energy equivalence.  
 - 🔹 **De Broglie Wavelength Calculator** – Quickly determine particle wave properties for different masses and velocities.  
-- 🔹 **Thermodynamic Analysis** – Evaluate thermodynamic properties and processes with accurate, structured outputs.  
-- 🔹 **Robust Error Handling** – Prevents invalid entries and ensures reliability during complex computations.  
-- 🔹 **User-Friendly Interface** – Built with **Tkinter** for easy navigation and seamless usability.  
+- 🔹 **Thermodynamic Analysis** – Solve for processes and properties in classical thermodynamics.  
+- 🔹 **Dark Mode / Light Mode Toggle** – Customize the calculator’s theme for comfort and usability.  
+- 🔹 **Robust Error Handling** – Prevents invalid inputs, ensuring reliability during calculations.  
+- 🔹 **User-Friendly Interface** – Clean, intuitive design built with **Tkinter** for smooth navigation.  
 
 ---
 
@@ -60,6 +61,8 @@ We are actively working on expanding the scope of this calculator:
   <img src="https://github.com/user-attachments/assets/a2a7a3b0-92d8-44a9-b598-973cac4cb18b" width="45%" /><br>
   <img src="https://github.com/user-attachments/assets/81f0eca2-bb81-4087-a57c-ebf8abf1b1ed" width="45%" />
   <img src="https://github.com/user-attachments/assets/9872b096-aac9-480b-8f8d-d44877d911e1" width="45%" />
+  <img src="https://github.com/user-attachments/assets/901a1ed0-555e-42c6-a06e-ced3c0fa3252" width="45%" />
+  <img src="https://github.com/user-attachments/assets/d3859a81-c068-43bb-a15c-a9e1c047aba0" width="45%"/>
 </p>
 
 ---
@@ -71,13 +74,10 @@ Contributions are welcome! 🎉
 - Submit a pull request  
 
 ---
-
-## 📜 License  
-This project is licensed under the **MIT License** – feel free to use, modify, and share with attribution.  
-
+ 
 ---
 
 ## 👨‍💻 Author  
-**Adel Andrewsn**  
+**Andrews**  
 🔗 [GitHub Profile](https://github.com/AndrewsDuah)  
 
