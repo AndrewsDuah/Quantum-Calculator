@@ -2,7 +2,7 @@
 _A Physics Calculator Application_
 
 ## 📖 Overview  
-The **Quantum Calculator** is a comprehensive physics computation tool built with **Python** and **Tkinter**. It is designed to simplify and accurately perform a wide range of physics calculations, including **atomic transitions, nuclear physics, thermodynamics, and quantum mechanics principles**.  
+The **Quantum Calculator** is a versatile physics computation application built with **Python** and **Tkinter**. Initially developed to simplify core physics calculations, it has been continuously enhanced with advanced features and improved usability. This tool is ideal for **students, educators, and researchers**, providing accurate, reliable, and user-friendly calculations across multiple physics domains.
 
 With its **intuitive GUI**, robust backend, and precise formulas, this application serves as a reliable resource for **students, educators, and researchers**.  
 
